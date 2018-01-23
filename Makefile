@@ -1,6 +1,6 @@
 
 CC = gcc
-CFLAGS = -Wall -ftrapv -Wfloat-equal -Wunreachable-code
+CFLAGS = -Wall -ftrapv -Wunreachable-code
 TARGET = baseconv
 
 all:
